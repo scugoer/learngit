@@ -3,4 +3,4 @@ Git is free software.
 Git is very good
 Git is under GPL
 Insert a line
-Git Tracks Changes
+Git Tracks Changes of files
